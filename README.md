@@ -1,4 +1,4 @@
-# DIWALI SALES ANALYSIS
+# SALES ANALYSIS DURING FESTIVAL
 
 The Dataset of diwali sales provides various details regarding the sales of products during the festival of Diwali.
 
@@ -7,7 +7,6 @@ The sales is categorized by the State, Marital status, Product category, Order c
 Meaningful insights would be found to increase the future festival sales and reduce the risk of returns.
 
 Lets begin the Sales Analysis during a festival season.
-
 
 ```
 Create an Environment first, so that project dependencies can be installed under the project environment
