@@ -1,0 +1,6 @@
+README.md
+setup.py
+Diwali_Sales_Analysis.egg-info/PKG-INFO
+Diwali_Sales_Analysis.egg-info/SOURCES.txt
+Diwali_Sales_Analysis.egg-info/dependency_links.txt
+Diwali_Sales_Analysis.egg-info/top_level.txt
